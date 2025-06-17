@@ -1,12 +1,12 @@
-## Olá! Eu sou o Cristhian Alves
-<h3>Sobre mim</h3>
+# Olá! Eu sou o Cristhian Alves
+## Sobre mim
 
 - 💻 Buscando vagas de estágio
 - 🔭 Fazendo serviços freelancer com front-end
 - 🌱 Estudando JavaScript para full-stack
 - 📫 Contate-me no e-mail: cristhian.ads@hotmail.com
 
-## 📚 Formação em andamento e Concluidas
+## 📚 Formações em andamento
 
 Análise e Desenvolvimento de Sistemas | 2° Semestre <br>
 Curso de JavaScript e TypeScript do básico ao avançado JS/TS | Em andamento
