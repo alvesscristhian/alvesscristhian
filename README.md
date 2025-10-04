@@ -4,7 +4,7 @@
 - 💻 Buscando vagas de estágio
 - 🔭 Fazendo serviços freelancer com front-end
 - 🌱 Estudando JavaScript para full-stack
-- 📫 Contate-me no e-mail: cristhian.ads@hotmail.com
+- 📫 Meu portfólio: https://cristhianalves.netlify.app/
 
 ## 📚 Formação
 
