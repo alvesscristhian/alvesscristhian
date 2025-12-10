@@ -2,8 +2,8 @@
 ## 👨‍💻 Sobre mim
 
 - 💻 Buscando vagas de estágio
-- 🔭 Fazendo serviços freelancer com front-end
-- 🌱 Estudando JavaScript para full-stack
+- 🔭 Fazendo serviços freelancer full-stack
+- 🌱 Estudando JavaScript e TypeScript
 - 📫 Meu portfólio: https://cristhianalves.netlify.app/
 
 ## 📚 Formação
@@ -13,10 +13,16 @@
 ## 🛠️ Minhas habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cris-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />    
+  <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="Cris-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Cris-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Cris-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  
+          
 </div>
 
  ## 📫 Informações para contato
@@ -29,4 +35,4 @@
 
 ## 📊 GitHub Stats
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesscristhian&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesscristhian&show_icons=true&theme=radical)
