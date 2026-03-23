@@ -91,18 +91,37 @@ const cristhian = {
 <h3>🛒 Explosão Bike | E-commerce</h3>
 
 <ul>
-  <li><b>Stack:</b> HTML, CSS, JavaScript</li>
+  <li><b>Stack:</b> HTML, CSS, JavaScript, Node (Express), MongoDB</li>
   <li><b>Destaques:</b></li>
   <ul>
     <li>Interface moderna e responsiva para venda de bicicletas e acessórios</li>
     <li>Organização de produtos com foco em experiência do usuário</li>
     <li>Layout otimizado para conversão (landing + catálogo)</li>
-    <li>Projeto aplicado a um negócio real (Explosão Bike)</li>
+    <li>Painel de controle para admininstradores</li>
+    <li>Projeto aplicado a um negócio real</li>
   </ul>
 </ul>
 
 <p>
 👉 <a href="https://explosaobike.com.br">Ver projeto</a>
+</p>
+
+<h3>💇‍♀️ Salão Mega Momento | Landing Page</h3>
+
+<ul>
+  <li><b>Stack:</b> HTML, CSS, JavaScript</li>
+  <li><b>Destaques:</b></li>
+  <ul>
+    <li>Landing page focada em conversão e captação de clientes</li>
+    <li>Design moderno com identidade visual alinhada ao segmento de beleza</li>
+    <li>Estrutura estratégica com seções de serviços, benefícios e chamada para ação</li>
+    <li>Layout totalmente responsivo para mobile e desktop</li>
+    <li>Projeto aplicado a um negócio real</li>
+  </ul>
+</ul>
+
+<p>
+👉 <a href="https://salaomegamomento.com.br/">Ver projeto</a>
 </p>
 
 <hr/>
@@ -114,6 +133,7 @@ const cristhian = {
   <li>🔗 Criação e consumo de APIs REST</li>
   <li>⚙️ Experiência com aplicações full-stack</li>
   <li>⚡ Foco em evolução constante e prática real</li>
+  <li>Projeto aplicado a um negócio real</li>
 </ul>
 
 <hr/>
@@ -136,6 +156,6 @@ Aberto a:
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Obrigado%20pela%20visita!&fontColor=FFFFFF&fontSize=28&color=0:0B1220,50:6A0DAD,100:3B82F6"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Resolvendo%20problemas%20reais!&fontColor=FFFFFF&fontSize=28&color=0:0B1220,50:6A0DAD,100:3B82F6"
   />
 </p>
