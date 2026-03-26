@@ -124,6 +124,24 @@ const cristhian = {
 👉 <a href="https://salaomegamomento.com.br/">Ver projeto</a>
 </p>
 
+<h3>🏫 Gerenciamento de Escola (em andamento) | Full-stack</h3>
+
+<ul>
+  <li><b>Stack:</b> JavaScript, React, Tailwind, Node.js (Express), MariaDB</li>
+  <li><b>Destaques:</b></li>
+  <ul>
+    <li>Autenticação segura com token JWT e hash de senhas.</li>
+    <li>Painel restrito para usuários logados.</li>
+    <li>Sistema completo (CRUD) para gestão de alunos, incluindo upload de fotos.</li>
+    <li>Consumo de API Rest</li>
+    <li>Regras de negócios reais</li>
+  </ul>
+</ul>
+
+<p>
+👉 <a href="https://github.com/alvesscristhian/api-rest-escola">Ver projeto</a>
+</p>
+
 <hr/>
 
 <h2>✨ Diferenciais</h2>
