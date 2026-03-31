@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Cristhian%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Full-Stack&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:6A0DAD,100:3B82F6"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Cristhian%20Alves&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Full-Stack%20|%20Engenheiro%20de%20Software&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:6A0DAD,100:3B82F6"
   />
 </p>
 
@@ -74,7 +74,7 @@ const cristhian = {
 <div align="center">
 
 <h4>🎨 Desenvolvimento Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 
 <h4>🧱 Backend & Banco de Dados</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,cs" />
@@ -161,8 +161,9 @@ const cristhian = {
 <pre>
 Buscando oportunidade como:
 - Desenvolvedor Full-Stack
-- Desenvolvedor Frontend
-- Desenvolvedor Backend
+- Desenvolvedor Front-End
+- Desenvolvedor Back-End
+- Suporte Técnico
 
 Aberto a:
 - Estágio
