@@ -127,7 +127,7 @@ const cristhian = {
 <h3>🏫 Gerenciamento de Escola (em andamento) | Full-stack</h3>
 
 <ul>
-  <li><b>Stack:</b> JavaScript, React, Tailwind, Node.js (Express), MariaDB</li>
+  <li><b>Stack:</b> JavaScript, React, Tailwind, Node.js (Express), MariaDB, Docker, GCP</li>
   <li><b>Destaques:</b></li>
   <ul>
     <li>Autenticação segura com token JWT e hash de senhas.</li>
