@@ -77,10 +77,10 @@ const cristhian = {
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 
 <h4>🧱 Backend & Banco de Dados</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,cs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,cs" />
 
 <h4>⚙️ Ferramentas & DevOps</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,gcp,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,gcp,npm,docker" />
 
 </div>
 
