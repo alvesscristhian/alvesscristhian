@@ -41,7 +41,7 @@
 <pre>
 const cristhian = {
   cargo: "Desenvolvedor Full-Stack",
-  status: "Buscando primeira oportunidade",
+  status: "Dev back-end na ChinaLink Trading",
   foco: [
     "Desenvolvimento de aplicações completas",
     "APIs REST e integração entre sistemas",
@@ -77,7 +77,7 @@ const cristhian = {
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 
 <h4>🧱 Backend & Banco de Dados</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,cs" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,sequelize,cs" />
 
 <h4>⚙️ Ferramentas & DevOps</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,gcp,npm,docker" />
@@ -127,7 +127,7 @@ const cristhian = {
 <h3>🏫 Gerenciamento de Escola (em andamento) | Full-stack</h3>
 
 <ul>
-  <li><b>Stack:</b> JavaScript, React, Tailwind, Node.js (Express), MariaDB, Docker, GCP</li>
+  <li><b>Stack:</b> JavaScript, Python, React, Tailwind, Node.js (Express), MariaDB, Docker, GCP</li>
   <li><b>Destaques:</b></li>
   <ul>
     <li>Autenticação segura com token JWT e hash de senhas.</li>
