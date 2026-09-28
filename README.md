@@ -158,6 +158,6 @@ const cristhian = {
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Resolvendo%20problemas%20reais!&fontColor=FFFFFF&fontSize=28&color=0:0B1220,50:6A0DAD,100:3B82F6"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Desenvolvendo%20soluções%20rápidas!&fontColor=FFFFFF&fontSize=28&color=0:0B1220,50:6A0DAD,100:3B82F6"
   />
 </p>
